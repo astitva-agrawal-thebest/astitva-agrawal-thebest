@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🎓 B.Tech CSE Student<br>- 🔐 Currently learning **Cybersecurity**<br>- 🕷️ Exploring **Pentesting** & **Offensive Security**<br>- 💻 Languages I work with:<br>  - C<br>  - Python<br>  - JavaScript<br>  - JSX<br>- 💻 OS | work with:<br>  - Kali Linux<br>  - Ubuntu<br>- 🏆 HackerRank Achievements:<br>  - 🥇 Gold Badge ⭐⭐⭐⭐⭐ in Python<br>  - 🥈 Silver Badge ⭐⭐⭐ in C<br>- 🚀 Always curious about how systems work — and how they break 👀
+- 🎓 B.Tech CSE Student<br>- 🔐 Currently learning **Cybersecurity**<br>- 🕷️ Exploring **Pentesting** & **Offensive Security**<br>- 💻 Languages I work with:<br>  - C<br>  - Python<br>  - JavaScript<br>   - Java<br> - JSX<br>- 💻 OS | work with:<br>  - Kali Linux<br>  - Ubuntu<br>- 🏆 HackerRank Achievements:<br>  - 🥇 Gold Badge ⭐⭐⭐⭐⭐ in Python<br>  - 🥈 Silver Badge ⭐⭐⭐ in C<br>- 🚀 Always curious about how systems work — and how they break 👀
 
 
 ## 🌐 Socials:
